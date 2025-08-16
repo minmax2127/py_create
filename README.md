@@ -34,9 +34,9 @@ To use this,
 
     ```python
     """
-    New Sample File
+    Currency Converter
     ---------------
-    This is a sample description for the sample file
+    Scrapes a currency converter website to get rates.
     """
 
     def test_func():
